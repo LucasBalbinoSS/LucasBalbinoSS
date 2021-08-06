@@ -1,5 +1,13 @@
-# Opa! Eu sou o Lucas Balbino
+<main>
+<section>
+<p align="middle">
+<a herf="">
+<img src="https://readme-typing-svg.herokuapp.com?color=628FDAFF&center=true&width=800&lines=Hey!+I'm+Lucas+Balbino;And+i+want+to+become+a+full+stack+developer;I'm+currently+focused+on+studies;Towards+the+target!" />
+</a>
+</p>
 
+
+  
 <div align="center">
   <a href="https://github.com/LucasBalbinoSS">
   <img  height="168em" src="https://github-readme-stats.vercel.app/api?username=LucasBalbinoSS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
