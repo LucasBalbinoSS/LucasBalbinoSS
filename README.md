@@ -1,4 +1,4 @@
-# Olá! Eu sou o Lucas Balbino
+# Opa! Eu sou o Lucas Balbino
 
 <div align="center">
   <a href="https://github.com/LucasBalbinoSS">
