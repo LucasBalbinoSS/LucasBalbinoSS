@@ -2,7 +2,7 @@
 <section>
 <p align="middle">
 <a herf="">
-<img src="https://readme-typing-svg.herokuapp.com?color=628FDAFF&size=25&center=true&width=600&lines=Hey!+I'm+Lucas+Balbino;And+i+want+to+become+a+full+stack+developer;I'm+currently+focused+on+studies;Towards+the+target!" />
+<img src="https://readme-typing-svg.herokuapp.com?color=628FDAFF&size=25&center=true&width=800&lines=Hey!+I'm+Lucas+Balbino;And+i+want+to+become+a+full+stack+developer;I'm+currently+focused+on+studies;Towards+the+target!" />
 </a>
 </p>
 
