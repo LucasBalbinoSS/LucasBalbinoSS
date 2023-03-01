@@ -1,11 +1,7 @@
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBalbinoSS&hide=stars,contribs&show_icons=false&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBalbinoSS&hide=stars,contribs&show_icons=true&theme=transparent&count_private=true&hide_title=true&include_all_commits=true&text_bold=false&ring_color=0f0)
 
-  <section align="left" style="display: inline_block"><br>
-    <img align="center" alt="Lucas-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Lucas-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Lucas-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </section>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBalbinoSS&hide_title=true&hide=python,java,hack&layout=compact&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
   
 ##
    
