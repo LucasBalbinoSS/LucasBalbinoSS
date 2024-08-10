@@ -4,16 +4,16 @@
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=LucasBalbinoSS&icon_color=f05a29&hide=stars,contribs&show_icons=true&theme=transparent&count_private=true&hide_title=true&include_all_commits=true&text_bold=false&ring_color=f05a29&border_color=d0d7de&text_color=24292f)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 -->
 <samp>
-Sou especialista em migração e desenvolvimento de páginas contendo acessibilidade aos usuários e um design leve e moderno,<br>
-utilizando algumas das principais tecnologias do mercado.
+I am a specialist in migration and development of pages containing user accessibility and a light, modern design,
+using some of the main technologies on the market. 💻
 <br>
 <br>
-Estou no último semestre da graduação em Análise e Desenvolvimento de Sistemas pela FATEC.
+I'm in the last semester of my degree in Systems Analysis and Development at FATEC. 📚
 <br>
 <br>
-Meus principais valores são: ética, comprometimento, responsabilidade e proatividade.
+My main values ​​are: ethics, commitment, responsibility and proactivity. ✔️
 <br>
-Busco empresas que me deem a oportunidade de expandir minhas habilidades e conhecimentos a longo prazo.
+Look for companies that consider me an opportunity to expand my skills and knowledge in the long term.
 </samp>
 <br>
 <br>
