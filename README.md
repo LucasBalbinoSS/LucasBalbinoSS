@@ -14,7 +14,7 @@ I'm in the last semester of my degree in Systems Analysis and Development at FAT
 <br>
 My main values ​​are: ethics, commitment, responsibility and proactivity. ✔️
 <br>
-Look for companies that consider me an opportunity to expand my skills and knowledge in the long term.
+I'm looking for companies that consider me an opportunity to expand my skills and knowledge in the long term.
 </samp>
 <br>
 <br>
