@@ -9,9 +9,6 @@ I am a specialist in migration and development of pages containing user accessib
 using some of the main technologies on the market. 💻
 <br>
 <br>
-I'm in the last semester of my degree in Systems Analysis and Development at FATEC. 📚
-<br>
-<br>
 My main values ​​are: ethics, commitment, responsibility and proactivity. ✔️
 <br>
 I'm looking for companies that consider me an opportunity to expand my skills and knowledge in the long term.
